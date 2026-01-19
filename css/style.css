@@ -68,6 +68,9 @@ p {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    background-color: transparent;
+    min-height: 350px;
+
 }
 
 .bottom-container {
